@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    float: left;
+}
+.navber{
+    float: right;
+}
+.navber li {
+    display: inline-block;
+}
+.navber li a{
+  
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.h-contant{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 20% 30%;
+    text-align: center;
+}
+.h-contant h1{
+    color: #fff;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.header{
+    background: url(img22.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    padding: 30px;
+}
+.logo h1{
+color: #fff;
+text-transform: uppercase;
+}
